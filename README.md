@@ -122,8 +122,9 @@ public class MainWindow {
 	}
 
 }
+```
 
-Class userInteractionConsole.java
+**Class UserInteraction_Console.java**
 
 ```java
 package com.lockedme;
@@ -229,6 +230,8 @@ public class UserInteraction_Console {
 	    }
 
 }
+```
+
 **Class fileViewer.java**
 
 ```java
@@ -257,6 +260,8 @@ public class filesViewer {
 	    }
 
 }
+```
+
 **Class BusinessLevelOperation.java**
 
 ```java
@@ -323,6 +328,7 @@ public class BusinessLevelOperation {
     }	
 
 }
+```
 
 ## Conclusion:
 
